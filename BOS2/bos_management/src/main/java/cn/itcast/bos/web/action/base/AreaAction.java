@@ -42,6 +42,9 @@ public class AreaAction extends BaseAction<Area> {
 	@Autowired
 	private AreaService areaService;
 
+	
+	
+	
 	// 接收上传文件
 	private File file;
 

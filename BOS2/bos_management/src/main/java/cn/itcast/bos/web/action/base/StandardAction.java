@@ -32,6 +32,8 @@ public class StandardAction extends ActionSupport implements
 	// 模型驱动
 	private Standard standard = new Standard();
 
+	//nxndo;bn;foxnb;xc
+	
 	@Override
 	public Standard getModel() {
 		return standard;
